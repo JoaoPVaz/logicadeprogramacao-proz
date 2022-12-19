@@ -1,2 +1,2 @@
-# logica-proz
+# Logica-proz
  Exercicio Logica de Programacao
